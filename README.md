@@ -1,1 +1,2 @@
 # R2_Evlove
+Our team built a web application that serves as a one-stop destination for farmers, providing them with information on crop yields, crop cutting, fertilizers, pesticides, and when to use them. Additionally, we built a crop prediction model that uses real-world datasets and takes inputs such as temperature, humidity, pH value, water availability, and season to predict the best crop for a particular land.
